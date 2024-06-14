@@ -3,6 +3,7 @@
 # The products pages use a scroll down to upload more products into the pages.
 ##### So this loads ALL products by scrolling down then back up and keeps doing this
 ##### until no more products or page heights doesn't change anymore.
+################################
 
 # unicodes to watch for errors
 # this might be a series of numbers incircled like a bullet point       \u2460 - \u2465 more to add maybe
