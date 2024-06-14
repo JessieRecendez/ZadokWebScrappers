@@ -4,6 +4,7 @@
 ##### So this loads ALL products by scrolling down then back up and keeps doing this
 ##### until no more products or page heights doesn't change anymore.
 ################################
+# Will this work???
 
 # unicodes to watch for errors
 # this might be a series of numbers incircled like a bullet point       \u2460 - \u2465 more to add maybe
