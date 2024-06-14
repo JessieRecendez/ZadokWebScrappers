@@ -1,6 +1,6 @@
 # Nouvel Heritage
 # DateScrapedWasSuccessful
-#####
+##### An edit is needed as they now have the scroll and click to load more products.
 # REMEMBER Pomellato was unique as far as their page scroll goes!!!!!!!!!!!!!!!!!!!!!!!!!
 
 # unicodes to watch for errors

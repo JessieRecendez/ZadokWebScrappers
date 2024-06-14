@@ -1,6 +1,7 @@
 # Mikimoto
 # 2023-04-17
-# Still need to add variants
+#### Still need to figure out how to add variants, similar to clicking into a new page a scraping the data before moving on to the next product.
+#### Similar to pages scrolling until the page heright no longer changes or gets bigger, this should go through each product type ujntil no more are available.
 
 # unicodes to watch for errors
 # this might be a series of numbers incircled like a bullet point       \u2460 - \u2465 more to add maybe

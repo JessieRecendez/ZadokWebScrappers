@@ -1,7 +1,7 @@
 # Marco Bicego
 # 2023-04-28
 ##### need to fix scraping extra, but empty variants while still scraping variants the way I want them
-# REMEMBER Pomellato was unique as far as their page scroll goes!!!!!!!!!!!!!!!!!!!!!!!!!
+##### To load more products this page just needs to keep scrolling until page height stops changing.
 
 # unicodes to watch for errors
 # this might be a series of numbers incircled like a bullet point       \u2460 - \u2465 more to add maybe

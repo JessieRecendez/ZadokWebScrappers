@@ -1,6 +1,6 @@
 # Roberto Coin
 # 2023-03-28
-# Next Page
+##### I may need to update code to add the scroll down, back up a few pixels, then back down until no more products load or page gets bigger.
 
 # unicodes to watch for errors
 # this might be a series of numbers incircled like a bullet point       \u2460 - \u2465 more to add maybe
